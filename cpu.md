@@ -32,8 +32,8 @@ AMD使用的是Zen
 而Intel目前使用的最新的微架构是Coffee Lake微架构
 >Coffee Lake 是 Intel 继 Skylake 和 Kaby Lake 之后的新一代 14 纳米制程的处理器系列分配的代号。 这些处理器的内置显示核心都支持 DP 1.2、HDMI 2.0 和 HDCP 2.2 连接，且原生支持在 2666 兆赫兹频率下的双通道 DDR4 内存。桌面端的 Coffee Lake 处理器与旧一代酷睿处理器来说主要的变化就是 i5 和 i7 均提供六颗核心（i7具有超线程技术），而对于 i3 来说，Intel第一次提供 4 核的标准 i3 处理器。该架构的芯片已于 2017 年 10 月 5 日推出市场。 它使用 300 系列的芯片组，与旧的 100 和 200 系列芯片组不兼容，而 300 系芯片组的主板亦无法安装六代或七代的酷睿 CPU。而下一代架构仍旧会使用 14nm+++ 工艺直到 14nm 已不足以提供更多性能为止。
 
-![intel处理器](https://github.com/HokhyTann/Assignment/blob/master/img/1.png)
-![AMD处理器](https://github.com/HokhyTann/Assignment/blob/master/img/2.png)
+![intel处理器](https://github.com/HokhyTann/Assignment/blob/master/cpuimg/1.png)
+![AMD处理器](https://github.com/HokhyTann/Assignment/blob/master/cpuimg/2.png)
 
 从多数媒体的首发性能评测而言，首发产品Ryzen 7系列的每个CPU核心的性能及多线程性能已经达到Intel Haswell/Boardwell微架构在同时脉下的水准，能源效率则更佳，多线程的需求是Ryzen的优势，其竞争对手的处理器产品采用旧一代的架构时的默认时脉也不会如此高。  
 
@@ -76,7 +76,7 @@ i7-9800的售价为4599，而3800X的售价为2699。AMD在这两款CPU上的性
 
 因此，随着CPU时钟周期的增加，一方面其他的硬件比如传输的总线无法跟上CPU的速度，另一方面会产生大量的热量，导致CPU损坏。第一台IBM PC的频率是4.77MHZ,而到2002年，最快的CPU达到了3GHZ。但是最近的CPU大多在4GHZ左右，增长速度已经减慢了很多，如果上面这两个问题无法解决的话，CPU主频的频率将会难以继续提高。  
 
-![ ](https://github.com/HokhyTann/Assignment/blob/master/img/3.jpg)
+![ ](https://github.com/HokhyTann/Assignment/blob/master/cpuimg/3.jpg)
 从图中可以看到随着CPU主频的提高，功耗的增长速度会逐渐增加。
 
 在21世纪初期，有的CPU产商为了提高CPU主频作为卖点，强行增加流水线数量。第三代P4波塞冬核心（Prescott）把流水线长度增加到了31级，缓存也加大了，相应也把频率频率拉的很高，但是大家很快就发现虽然频率高但是实际运行效率却没有北木那么高，3.2G以下波塞冬竟然打不过北木，发热和功耗也成为了劣势，高频低能就是说波塞冬。然后就是AMD的速龙64系列CPU的横空出世，20级恰到好处的流水线长度，控制得很好的发热和功率，频率不高而实际效率高。当时悲剧的英特尔总裁贝瑞特在IDF05上给大众下跪：
