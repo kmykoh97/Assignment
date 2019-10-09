@@ -5,3 +5,4 @@
 Team members: HOKHY TANN, Zhang Jingyi      
 分工: Network: HOKHY TANN  
       Memory: Zhang Jingyi
+      CPU: Tan Xiangnan
