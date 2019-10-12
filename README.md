@@ -4,6 +4,6 @@
 ## 1st Assignment 
 Team members: HOKHY TANN, Zhang Jingyi, Meng Yit Koh   
 分工: Network: HOKHY TANN  
-      Memory: Zhang Jingyi
-      CPU: Tan Xiangnan
-      xPU: Meng Yit Koh
+      Memory: Zhang Jingyi  
+      CPU: Tan Xiangnan  
+      xPU: Meng Yit Koh  
