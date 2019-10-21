@@ -7,3 +7,4 @@ Team members: HOKHY TANN, Zhang Jingyi, Meng Yit Koh
       Memory: Zhang Jingyi  
       CPU: Tan Xiangnan  
       xPU: Meng Yit Koh  
+      Storage: Liu Yuxuan
