@@ -14,7 +14,7 @@ Mesos使用了去中心化的模式，将调度的控制委托给集群计算框
 
 它的两个关键功能是资源分配和资源隔离。Mesos将资源分配的决定权委派给可插拔的分配模块，集群框架有对不满足自己要求的资源拒绝的机制。由于大部分任务都是短暂的，Mesos仅在任务结束时重新分配资源，对于一个充满长期任务的集群，Mesos也会撤回任务。Mesos的隔离机制是使用操作系统的容器技术实现的。比如Linux Container和Solaris Projects.
 
-![a](https://github.com/HokhyTann/Assignment/tree/master/mesosimage/1.png)
+![a](mesosimage/1.png)
 
 Figure 2显示了Mesos的主要部件。
 
@@ -28,7 +28,7 @@ Mesos能够获得较高的利用率，对工作负载的改变相应快速，并
 
 通过在Amazon Elastic Compute Cloud（EC2）上一系列的实验来评测Mesos的结果表明Mesos比静态分区得到了更高的使用率，并且完成比静态分区共享集群快，并且可能由于其他集群框架的需求的差异而变得更快。
 
-![b](https://github.com/HokhyTann/Assignment/tree/master/mesosimage/2.png)
+![b](mesosimage/2.png)
 
 Figure 5比较了在共享和静态分配集群中，每个集群框架在一段时间内资源分配情况。阴影部分表示静态分配集群中的资源分配，实线区域表示在Mesos上共享的资源。我们看到当整体需求允许的情况下，细粒度的集群框架（Hadoop和Spark）利用Mesos扩展到了超过集群的1/4，结果是在Mesos上更快地提交了作业。
 
