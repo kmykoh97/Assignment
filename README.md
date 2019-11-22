@@ -7,4 +7,4 @@ Team members: HOKHY TANN, Zhang Jingyi, Meng Yit Koh
 分工: Network: HOKHY TANN, Memory: Zhang Jingyi, CPU: Tan Xiangnan, xPU: Meng Yit Koh, Storage: Liu Yuxuan
 
 ## 2nd Assignment
-分工: Sigma: HOKHY TANN, Meso: Tan Xiangnan, Borg: Meng Yit Koh, Omega: Liu Yuxuan
+分工: Sigma: HOKHY TANN, Meso: Tan Xiangnan, Borg: Meng Yit Koh, Omega: Liu Yuxuan, Apollo: Zhang Jingyi
